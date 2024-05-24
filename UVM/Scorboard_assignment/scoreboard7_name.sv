@@ -1,6 +1,6 @@
 class scoreboard extends uvm_scoreboard
   //factory registration
-  //declaration of analysis_imp_ports from monitor/refrennce model
+  //declaration of ports from monitor/refrennce model
   //constructor
   //build phase
   //connect phase
