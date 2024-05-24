@@ -5,5 +5,5 @@ class scoreboard extends uvm_scoreboard
   //build phase
   //connect phase
   //run phase 
-  //write scorebrd check here with expected and actual data
+  //write scoreboard check here with expected and actual data
 endclass
